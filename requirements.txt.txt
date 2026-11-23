@@ -1,0 +1,7 @@
+streamlit
+pillow
+pytesseract
+pypdf
+pypdfium2
+pandas
+supabase
